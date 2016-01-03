@@ -96,17 +96,17 @@
 
 
         $('.total-number-1').animateNumber({
-            number: 100, //change value here
+            number: 58, //change value here
 
         }, 2000);
 
         $('.total-number-2').animateNumber({
-            number: 5000, //change value here
+            number: 469, //change value here
 
         }, 2000);
 
         $('.total-number-3').animateNumber({
-            number: 1200, //change value here
+            number: 600, //change value here
 
         }, 2000);
 
