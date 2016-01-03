@@ -3,3 +3,4 @@ appengine-generated/
 .project
 .DS_Store
 .pydevproject
+*.pyc
