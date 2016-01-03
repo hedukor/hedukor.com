@@ -61,7 +61,7 @@
     $('.cta').waypoint(function() {
 
         $('.total-number').animateNumber({
-            number: 800, //change value here
+            number: 23, //change value here
             color: '#FF4C4C'
         }, 4000);
 
