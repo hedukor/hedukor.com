@@ -1,4 +1,4 @@
-$(function() {
+	$(function() {
     "use strict";
 
 
@@ -9,7 +9,7 @@ $(function() {
        ========================================================================== */
 
 
-    $('#clock').countdown('2016/12/30 12:34:56') //Change time here. Time format 'y/m/d  h/m/s' 
+    $('#clock').countdown('2016/01/30 12:34:56') //Change time here. Time format 'y/m/d  h/m/s' 
         .on('update.countdown', function(event) {
             var format = '%H:%M:%S';
             if (event.offset.days > 0) {
