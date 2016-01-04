@@ -80,9 +80,9 @@
 
     $("#share").jsSocials({
         showCount: false,
-        shares: ["email", "twitter", "facebook", "googleplus", "linkedin", "pinterest"], // add/remove social network
-        url: "http://csmthemes.com/themes/webi", // http://url.to.share
-        text: "Webi - Webinar Landing Page" // text to share
+        shares: ["email", "twitter", "facebook", "googleplus", "linkedin"], // add/remove social network
+        url: "http://hedukor.com/", // http://url.to.share
+        text: "Welcome to Hedukor" // text to share
     });
 
 
