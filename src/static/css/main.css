@@ -1269,3 +1269,7 @@ p { font-size: 19px; }
 
 .twitter-feed .container { width: 1170px; }
 }
+
+.thumb {
+    margin-bottom: 30px;
+}
